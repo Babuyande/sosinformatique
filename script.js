@@ -1,3 +1,1 @@
-function contact() {
-    alert("Contactez-moi sur WhatsApp : +221756447598");
-}
+console.log("AlloTech IT chargé");
