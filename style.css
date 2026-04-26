@@ -103,4 +103,13 @@ form button {
 .contact-info {
     margin-top: 20px;
 }
+.card ul {
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.card li {
+    margin-bottom: 5px;
+}
 
